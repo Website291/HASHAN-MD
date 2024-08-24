@@ -1,11 +1,11 @@
-# PRABATH--MD
+# HASHAN--MD
 <br>
 
 ## HASHAN-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 **Important Notice:**
 
-We regret to inform you that our previous repository, [PRABATH-MD](https://github.com/prabathLK/PRABATH-MD), was banned by GitHub. To continue our project, we have created this new repository.
+We regret to inform you that our previous repository, [HASHAN-MD](https://github.com/prabathLK/PRABATH-MD), was banned by GitHub. To continue our project, we have created this new repository.
 
 We sincerely apologize for the inconvenience this may have caused and appreciate your understanding and support.
 
@@ -71,7 +71,6 @@ Thank you!
 ## 👑 **`HASHAN-MD BOT AUTHORS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
@@ -79,7 +78,6 @@ Thank you!
 
 ---
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
 |**[`officialy`](https://github.com/SACHIBOT)**|
 
