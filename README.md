@@ -1,7 +1,7 @@
 # PRABATH--MD
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## HASHAN-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 **Important Notice:**
 
@@ -17,8 +17,8 @@ Thank you!
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://telegra.ph/file/4b8107be4fdeaf42f3022.jpg">
+    <img alt="prabath-md" height="300" src="https://telegra.ph/file/4b8107be4fdeaf42f3022.jpg">
     
   
   </a>
@@ -68,20 +68,20 @@ Thank you!
 
 ---
 
-## 👑 **`PRABATH-MD BOT AUTHORS,`** 👑
+## 👑 **`HASHAN-MD BOT AUTHORS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`Hashan sathsara`](https://github.com/Website291/HASHAN-MD)**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`officialy`](https://github.com/SACHIBOT)**|
 
 ---
 
@@ -94,8 +94,3 @@ Thank you!
 
 ![license](https://img.shields.io/github/license/prabathLK/PRABATH--MD?color=green&label=License&style=plastic)
 
-
-
-`Released date:- 2023.08.24`
-<br>
-`latest updated date:- 2024.05.25`
